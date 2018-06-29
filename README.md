@@ -36,6 +36,7 @@
 5. 效果预览
 
     ![image](http://bmob-cdn-20286.b0.upaiyun.com/2018/06/29/ad04e292400b946d8074b7fd675dbc0e.gif)
+    
 6. 后续
     > 可以修改代码并做到尽量通用化
 

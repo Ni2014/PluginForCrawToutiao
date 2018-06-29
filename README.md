@@ -40,7 +40,7 @@
    <img src = "https://github.com/Ni2014/PluginForCrawToutiao/blob/master/preLook.gif"></img>
 
 6. 后续
-    > 可以修改代码并做到尽量通用化
+    > 可以修改代码并做到尽量通用化；
 
     > 结合具体业务做到自动化，比如用Java启动浏览器的插件并定时执行，实现自动化爬虫；
     

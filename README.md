@@ -33,11 +33,12 @@
     > (3) 此时就能在右上方看到插件icon了。
     ![image](http://bmob-cdn-20286.b0.upaiyun.com/2018/06/29/1352c8b64092fd25802be36107095f5a.png)
     
-    ![image](./prelook.gif)
+
 5. 效果预览
 
-    ![image](http://bmob-cdn-20286.b0.upaiyun.com/2018/06/29/ad04e292400b946d8074b7fd675dbc0e.gif)
     
+   <img src = "http://bmob-cdn-20286.b0.upaiyun.com/2018/06/29/ad04e292400b946d8074b7fd675dbc0e.gif"></img>
+   
 6. 后续
     > 可以修改代码并做到尽量通用化
 

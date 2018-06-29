@@ -37,8 +37,8 @@
 5. 效果预览
 
     
-   <img src = "http://bmob-cdn-20286.b0.upaiyun.com/2018/06/29/ad04e292400b946d8074b7fd675dbc0e.gif"></img>
-   
+   <img src = "./preLook.gif"></img>
+
 6. 后续
     > 可以修改代码并做到尽量通用化
 

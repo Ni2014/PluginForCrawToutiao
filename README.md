@@ -37,7 +37,7 @@
 5. 效果预览
 
     
-   <img src = "./preLook.gif"></img>
+   <img src = "preLook.gif"></img>
 
 6. 后续
     > 可以修改代码并做到尽量通用化

@@ -35,7 +35,9 @@
 5. 效果预览
 
     
-   <img src = "https://bmob-cdn-26596.bmobpay.com/2020/05/16/191e0bbe405d380980171fdc3863cda8.gif"></img>
+
+   
+   ![image](https://bmob-cdn-26596.bmobpay.com/2020/05/16/191e0bbe405d380980171fdc3863cda8.gif)
 
 6. 后续
     > 可以修改代码并做到尽量通用化；

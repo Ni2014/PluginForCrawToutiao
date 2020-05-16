@@ -13,9 +13,7 @@
 
 3. 源码(项目结构)介绍
 
-    如图：
-
-    ![image](http://bmob-cdn-20286.b0.upaiyun.com/2018/06/29/98f563be407fecb480591348394d4b68.png)
+    
 
     源码在popup.js文件中，基本思路是拿到页面元素内容截取出我们想要的基本内容如信息流的标题，body内容，富文本内容，图片，来源等并调用BmobJSSDK的Api实现数据保存，很简单对吧；
     > 其中的appid和restkey对应你在Bmob平台创建的应用的配置信息，换成你自己的应用对应的配置即可。
@@ -37,7 +35,7 @@
 5. 效果预览
 
     
-   <img src = "https://github.com/Ni2014/PluginForCrawToutiao/blob/master/preLook.gif"></img>
+   <img src = "https://bmob-cdn-26596.bmobpay.com/2020/05/16/191e0bbe405d380980171fdc3863cda8.gif"></img>
 
 6. 后续
     > 可以修改代码并做到尽量通用化；
